@@ -5,8 +5,6 @@ import (
 	"crypto/x509"
 	"fmt"
 	"github.com/ant0ine/go-json-rest/rest"
-	. "github.com/smartfog/fogflow/common/config"
-	. "github.com/smartfog/fogflow/common/ngsi"
 	"io/ioutil"
 	"log"
 	"net/http"
